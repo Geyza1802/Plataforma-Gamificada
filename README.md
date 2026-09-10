@@ -37,19 +37,19 @@ Para viabilizar o gerenciamento e a entrega sistemática do software dentro do c
 
 A equipe distribui suas competências multidisciplinares de Engenharia de Software da seguinte forma:
 
-### 👑 Geyza Gonçalves
+### 👑
 * **Papel de Gestão:** Product Owner (PO)
   * Responsável por definir as prioridades do Backlog, organizar as funcionalidades mais importantes do sistema e garantir que os jogos (Alfabetização, Matemática e Cidadania) possuam valor educativo real.
 * **Foco Técnico:** Desenvolvedor Front-end & UI/UX
   * Criação do conteúdo pedagógico do aplicativo, design de interface, organização visual da plataforma e otimização da experiência do usuário.
 
-### 🔄 Ana Flávia Moisés
+### 🔄 
 * **Papel de Gestão:** Scrum Master
   * Responsável por manter o quadro Kanban atualizado, garantir o cumprimento das Sprints de 2 semanas, resolver impedimentos durante o desenvolvimento e auxiliar nos testes de validação.
 * **Foco Técnico:** Desenvolvedor Back-end & QA
   * Implementação da lógica de programação estrutural, integração completa entre o sistema e o banco de dados, testes funcionais e controle de qualidade.
 
-### 💻 Nicolas Avelino
+### 💻
 * **Papel de Gestão:** Lead Developer (Líder Técnico)
   * Responsável por garantir a estabilidade técnica e integração das funcionalidades, realizar rotinas de testes integrados e assegurar o pleno funcionamento do algoritmo do Timer SBP.
 * **Foco Técnico:** Desenvolvedor Back-end & QA
